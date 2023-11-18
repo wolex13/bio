@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: rgb(36, 36, 213);
+    width: 28%;
+    padding: 0.5rem;
+    padding-bottom: 2rem;
+    color: white;
+}
+.love{
+    border-radius:50%;
+    height: 90px;
+    width: 90px;
+    margin-top: 13px;
+    }
+
+    h3{
+        font-weight: 700;
+        font-size: 20px;
+    }
+
+    .mail{
+        font-size: 14px;
+    }
+
+    h2{
+        font-size: 25px;
+        font-weight: 700;
+        margin-bottom: 10px;
+        margin-top:15px ;
+    }
+
+    .hireme{
+       padding: 10px 30px;
+       border-radius: 15px;
+       border: none;
+       color: rgb(36, 36, 213);
+       font-weight: 700;
+       margin-top: 15px;
+
+
+    }
